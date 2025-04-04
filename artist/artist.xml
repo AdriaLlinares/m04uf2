@@ -1,0 +1,11 @@
+<?xml versio="1.0" encoding="UTF-8" ?>
+<artist id="1">
+	<name>Pedro el huesos</name>
+	<nationality country="Spain" />
+	<birthdate date="10/10/2010" />
+	<deathdate date="" />
+	<albums>
+		<album id="1" />
+	</albums>
+
+</artist>

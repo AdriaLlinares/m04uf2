@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="">
+	<title></title>
+	<artists>
+		<artista id=""></artista>
+		<artista id=""></artista>
+	</artists>
+	<generes>
+		<genere id="" />
+		<genere id="" />
+	</generes>
+
+	<duration seconds="" />
+
+	<lyrics lang="en">
+		
+	</lyrics>
+	<album id="" />
+		
+</song>

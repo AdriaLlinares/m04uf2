@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="1">
+	<title>Indian Huesitos</title>
+	<artists>
+		<artista id="1">Pedro el huesos</artista>
+		<artista id=""></artista>
+	</artists>
+	<generes>
+		<genere id="1" />
+		<genere id="" />
+	</generes>
+
+	<duration seconds="200" />
+
+	<lyrics lang="en">
+		
+	</lyrics>
+	<album id="1" />
+	
+</song>
